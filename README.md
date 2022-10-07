@@ -1,2 +1,2 @@
 # FurnitureStore
-Store Proyect Made with blazor for learning
+Store Project Made with blazor for learning
